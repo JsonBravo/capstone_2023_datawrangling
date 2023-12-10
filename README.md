@@ -18,7 +18,7 @@ This holds all Jupyter Notebooks used during my 2023 MSDS Capstone Project, as w
 * AstroCatelogues -- This is the spread sheet where all SOAM seed source data was corralled.
 * Synonym_Implementation_NOTES -- This is a PDF describeing some challenges (and possible solutions) for implementing the Synonym Filter file (the 'astrononimcal_synonyms_112923' file found in the 'deliverables' folder). 
 
-# The 'data' Folder
+# The 'data' Folder (ZIPPED)
 This folder contains the bulk data used and generated through out this capstone project. Some notable files include:
 * 'astrobin_titles_to_subject_types' -- A csv file provided by AstroBin, used as the training data for classification modeling.
 * 'Augement_Equipment_OPT' A txt file of astronomy equipment details scraped from the OPT website (https://optcorp.com/) used as supplement data for the training data augmentation method.
@@ -26,5 +26,5 @@ This folder contains the bulk data used and generated through out this capstone 
 * 'Augement_NOCTILUCENT_CLOUDS_Wiki' -- A txt file scraped from Wikipedia (https://en.wikipedia.org/wiki/Noctilucent_cloud) regarding Noctilucent Clouds, used as supplement data for the training data augmentation method.
 * 'Augement_NORTHERN_LIGHTS_GPT' -- A txt file of ChatGPT generated descriptions of Northern Lights / Aurora, used as supplement data for the training data augmentation method.
 
-# The 'deliverables' Folder
+# The 'deliverables' Folder (ZIPPED)
 This folder contains the data sets, files, and methods required for the deliverables, as described in the '3.0_Capstone_Deliverables' Notebook file     
