@@ -1,5 +1,5 @@
 # capstone_2023_datawrangling
-This holds all Jupyter Notebooks used during my 2023 MSDS Capstone Project, as well as all data, deliverables, classes, and methods. Will leave as a public repository while the Capstone gets graded.
+This holds all Jupyter Notebooks used during my 2023 MSDS Capstone Project, as well as all data, deliverables, classes, and methods. Will leave as a public repository for now.
 
 # A Description of Notebook files:
 * 0.0 -- A simple exploration notebook. The initial look at the title text data alonge with some comments regarding expected challenges.
